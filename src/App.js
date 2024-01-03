@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       
-    <h1 class="text-3xl italic ">
+    <h1 class="text-3xl font-extrabold italic ">
       Hello world!
     </h1>       
       
