@@ -1,13 +1,9 @@
 import './App.css';
-
+import route from './Route/route';
 function App() {
   return (
-    <div className="App">
-      
-    <h1 class="text-3xl font-extrabold italic ">
-      Hello world!
-    </h1>       
-      
+    <div className="App">  App
+    
     </div>
   );
 }
