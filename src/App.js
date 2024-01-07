@@ -1,5 +1,5 @@
 import './App.css';
-import route from './Route/route';
+import route from './Route/routing';
 function App() {
   return (
     <div className="App">  App
